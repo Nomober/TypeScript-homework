@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/jvuy7kcuu0v9cgjs?svg=true)](https://ci.appveyor.com/project/Nomober/typescript-homework)
